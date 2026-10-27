@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>WinExe</OutputType><TargetFramework>net10.0-windows</TargetFramework><UseWPF>true</UseWPF><ApplicationIcon>Assets\PodsDesk.ico</ApplicationIcon><Version>1.0.0</Version><Company>Dyskolos_</Company><Product>PodsDesk</Product><UseWindowsForms>true</UseWindowsForms><Nullable>enable</Nullable><ImplicitUsings>enable</ImplicitUsings></PropertyGroup>
+  <ItemGroup><Resource Include="Assets\PodsDesk-logo.png"/><Resource Include="Assets\PodsDesk.ico"/><None Update="Scanner.exe" CopyToOutputDirectory="PreserveNewest" /></ItemGroup>
+</Project>
